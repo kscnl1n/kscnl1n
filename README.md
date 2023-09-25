@@ -1,7 +1,7 @@
 ![Kitoro](https://i.pinimg.com/originals/c4/3c/4f/c43c4f2c6f08ad9cd0dbaed15846729c.gif)
 
 Hi, I'm Kaylee. I'm a software engineer and I code for fun. I'm the mind behind Melodex and Halica, a language translation app.
-My Discord is aluralura if you have any inquiries or if you'd like to chat <3
+My Discord is aluralura if you have any inquiries or if you'd like to chat.
 
 
 
