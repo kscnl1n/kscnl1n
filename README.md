@@ -1,10 +1,4 @@
-![Kitoro](https://i.pinimg.com/originals/c4/3c/4f/c43c4f2c6f08ad9cd0dbaed15846729c.gif)
+**Current Projects**
 
-// TO BE UPDATED
-
-
-
-<!---
-kscnl1n/kscnl1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Melodex - In Progress** 
+Began work on 10/01/2023. Web application that uses Node.JS and a RESTful framework for storing data. Uses Spotify API and MusicBrainz' database for metadata, and Pytorch/Python for the AI functions. **Can be found under kscnl1n/Melodex.**
