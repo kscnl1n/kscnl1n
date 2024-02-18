@@ -8,6 +8,8 @@ Began work on 12/01/2024. This is a course designed to teach beginners to ML mod
 
 **Past Projects**
 
+**AeroExpress** - Began work on 02/10/2024. Website for PROS' challenge in the University of Houston Hackathon, meant to track flights around the user and return the cheapest options after being prompted in natural language. Uses Amadeus API for flight and pricing information and Google API for NLP.
+
 **PyFig** - Began work on 03/17/2023. Simple Python compiler using TKinter for GUI.
 
 **PyRegress** - Began work on 05/31/2023. Regression calculator built in Python meant to display future values for datasets in Matlab. 
