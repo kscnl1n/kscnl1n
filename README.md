@@ -13,3 +13,5 @@ Began work on 12/01/2024. This is a course designed to teach beginners to ML mod
 **PyFig** - Began work on 03/17/2023. Simple Python compiler using TKinter for GUI.
 
 **PyRegress** - Began work on 05/31/2023. Regression calculator built in Python meant to display future values for datasets in Matlab. 
+
+**vqe** - Final for Qubit x Qubit computational physics workshop course. Implementation of the hybrid quantum algorithm VQE for calculating the ground state of the transverse Ising model.
