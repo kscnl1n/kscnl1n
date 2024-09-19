@@ -1,3 +1,8 @@
+***Links:***
+**Kaggle:** https://www.kaggle.com/kayleescanlin
+**HuggingFace:** https://huggingface.co/kscan11n
+**LinkedIn:** https://www.linkedin.com/in/kaylee-scanlin-6815b8284/
+
 **Current Projects**
 
 **Air-Fair** 
