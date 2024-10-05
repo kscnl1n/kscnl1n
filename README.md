@@ -1,4 +1,5 @@
-Hello, my name is Kaylee, I am a software engineer and quantum computing afficionado and this is my portfolio.
+Hello, my name is Kaylee, I am a software engineer and quantum computing afficionado and this is my portfolio. 
+Outside of tech, I enjoy making specialty brews of coffee, collecting records, and film photography.
 
 Please take a look around :)
 
