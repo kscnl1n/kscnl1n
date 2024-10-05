@@ -1,7 +1,7 @@
 Hello, my name is Kaylee, I am a software engineer and quantum computing afficionado and this is my portfolio. 
 Outside of tech, I enjoy making specialty brews of coffee, collecting records, and film photography.
 
-Please take a look around :)
+My e-mail is scanlinsystems@gmail.com if you have any questions. Please take a look around :)
 
 
 **Current Projects**
