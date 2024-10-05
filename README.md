@@ -1,3 +1,7 @@
+Hello, my name is Kaylee, I am a software engineer and quantum computing afficionado and this is my portfolio.
+
+Please take a look around :)
+
 
 **Current Projects**
 
