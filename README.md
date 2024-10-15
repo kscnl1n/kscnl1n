@@ -4,7 +4,7 @@ Outside of tech, I enjoy making specialty brews of coffee, collecting records, a
 My e-mail is scanlinsystems@gmail.com if you have any questions. Please take a look around :)
 
 
-**Current Projects**
+#Current Projects
 
 **Air-Fair** 
 Began work on 05/01/2024. Web application dedicated to tracking the cheapest flight options worldwide. Hosted on Heroku!**
