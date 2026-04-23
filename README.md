@@ -4,15 +4,24 @@ Hello! My name is Kaylee Scanlin. I am a software engineer with a focus on data 
 
 For more information about my work history, check my [LinkedIn](https://www.linkedin.com/in/kaylee-scanlin-6815b8284/) or my [website](www.kayleescanlin.dev).
 
-# CURRENT PROJECTS -
-## Ubernetes
+# Current Projects
+## Big
+### Ubernetes
 My ongoing quest to make using Kubernetes easier.
 
-## Big Beautiful Data
+### Big Beautiful Data
 AI agent-based data engineering pipeline.
 
-## WhAI UI WhAI
+### PaperLeaf OS
+Open-source operating system for my handheld e-reader.
+
+## Small
+### WhAI UI WhAI
 Simple UI frontend generating agent.
 
-## CatForgeSite
+### CatForgeSite
 Website for my student developer org, CatForge: www.catforge.site
+
+# Past Projects
+## Big
+## Small
