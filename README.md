@@ -8,11 +8,11 @@ For more information about my work history, check my [LinkedIn](https://www.link
 ### Kubernetes Projects
 My ongoing quest to make using Kubernetes easier- these are a collection of open-source tools I am developing for working with Kubernetes.
 
-[**kube-graph**](https://github.com/kscnl1n/kube-graph.git)
+### [**kube-graph**](https://github.com/kscnl1n/kube-graph.git)
 
 YAML dependency graph generator.
 
-[**GPU-tracker**](https://github.com/kscnl1n/gpu-tracker)
+### [**GPU-tracker**](https://github.com/kscnl1n/gpu-tracker)
 
 GPU utilization tracker for Kubernetes.
 
