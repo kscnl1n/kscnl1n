@@ -16,7 +16,7 @@ YAML dependency graph generator.
 
 GPU utilization tracker for Kubernetes.
 
-###[Big Beautiful Data](https://github.com/kscnl1n/big-beautiful-data.git)
+### [Big Beautiful Data](https://github.com/kscnl1n/big-beautiful-data.git)
 
 AI agent-based data engineering pipeline.
 
