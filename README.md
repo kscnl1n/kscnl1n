@@ -27,4 +27,4 @@ Open-source operating system for my handheld e-reader.
 Simple UI frontend generating agent
 
 ### [CatForgeSite](https://github.com/kscnl1n/catforge-space)
-Website for my student developer org, CatForge: www.catforge.site
+Website for my student developer org, CatForge: www.catforge.space
